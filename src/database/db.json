@@ -1,0 +1,49 @@
+{
+  "workouts": [
+    {
+      "id": "eedda176-d2c4-4b51-b41f-e474a8d57a70",
+      "titulo": "Comprar boletos para el cine",
+      "descripcion": "Comprar boletos para la funcion de las 8pm en el cine del centro",
+      "fecha_inicio": "2022-11-10",
+      "fecha_fin": "2022-11-10",
+      "estado": "Pendiente",
+      "periodo": "Mañana"
+    },
+    {
+      "titulo": "Comprar boletos para el cine",
+      "descripcion": "Comprar boletos para la funcion de las 8pm en el cine del centro",
+      "fecha_inicio": "2022-11-10",
+      "fecha_fin": "2022-11-10",
+      "estado": "Pendiente",
+      "periodo": "Mañana",
+      "id": "eedda176-d2c4-4b51-b41f-e474a8d57a70"
+    },
+    {
+      "titulo": "Comprar boletos para el cine",
+      "descripcion": "Comprar boletos para la funcion de las 8pm en el cine del centro",
+      "fecha_inicio": "2022-11-10",
+      "fecha_fin": "2022-11-10",
+      "estado": "Aprobado",
+      "periodo": "Mañana",
+      "id": "8deca8a5-2ef8-4cef-b124-981d05fd1bae"
+    },
+    {
+      "titulo": "Comprar boletos para el cine",
+      "descripcion": "Comprar boletos para la funcion de las 8pm en el cine del centro",
+      "fecha_inicio": "2022-11-10",
+      "fecha_fin": "2022-11-10",
+      "estado": "Aprobado",
+      "periodo": "Mañana",
+      "id": "0f68d68f-aa1c-46f9-9a35-1a55b1233c05"
+    },
+    {
+      "titulo": "Comprar boletos para el cine",
+      "descripcion": "a",
+      "fecha_inicio": "2022-11-10",
+      "fecha_fin": "2022-11-10",
+      "estado": "Aprobado",
+      "periodo": "Mañana",
+      "id": "912343d3-290b-430a-8489-b0d1e62d13d0"
+    }
+  ]
+}
